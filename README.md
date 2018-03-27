@@ -21,6 +21,9 @@
 5.close the window
 
 3.Run python wish_them_all.py
+
+![final](https://user-images.githubusercontent.com/24820856/37968966-39a721c2-31ed-11e8-903e-1ce3e1a6be73.png)
+
 	
 	all the friends who have their birthday matching the current date are wished birthday
 
