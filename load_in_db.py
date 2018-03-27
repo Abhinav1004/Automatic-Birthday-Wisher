@@ -37,7 +37,7 @@ def friend_details():
     pattern = k
     if k in cont:
        print("Match Found")
-       client = Client('abhinavkrjha10@gmail.com','Abhinav10')
+       client = Client('yourusername','yourpassword')
        users = client.searchForUsers(name)
        user = users[0]
        print("User's ID: {}".format(user.uid))
