@@ -23,7 +23,7 @@ for line in file:
             name=match.group()
             print("Match Found")
         
-        client = Client('abhinavkrjha10@gmail.com', 'Abhinav10')
+        client = Client('yourusername', 'yourpassword')
         users = client.searchForUsers(name)
         user = users[0]
         
