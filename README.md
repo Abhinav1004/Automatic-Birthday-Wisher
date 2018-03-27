@@ -13,9 +13,12 @@
 	
 3.Click on Add new friend
 
-	enter the friend name and date of birth and click submit
+4.Enter the friend name and date of birth and click submit
 
-	close the window
+![entry](https://user-images.githubusercontent.com/24820856/37968867-f0a884de-31ec-11e8-9994-77ec017ea6f0.png)
+
+
+5.close the window
 
 3.Run python wish_them_all.py
 	
