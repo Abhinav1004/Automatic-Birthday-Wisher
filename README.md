@@ -7,8 +7,11 @@
 	pip install tkinter
 
 2.Run python load_in_db.py
+
+![happy](https://user-images.githubusercontent.com/24820856/37968780-b190a1f0-31ec-11e8-83b6-6082e5580dba.png)
+
 	
-	click on Add new friend
+3.Click on Add new friend
 
 	enter the friend name and date of birth and click submit
 
